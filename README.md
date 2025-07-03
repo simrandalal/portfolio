@@ -11,8 +11,8 @@ This is my personal portfolio website built with HTML and CSS to showcase my pro
 
 ## 📸 Screenshots
 
-![Screenshot 1](./assets/Screenshot(253).png)
-![Screenshot 2](./assets/Screenshot(254).png)
+![Screenshot 1](./assets/Screenshot1.png)
+![Screenshot 2](./assets/Screenshot1.png)
 
 ## 📂 Tech Stack
 
